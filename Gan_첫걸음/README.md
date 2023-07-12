@@ -5,3 +5,5 @@
   - Chapter 8. 실습 : 얼굴_이미지.ipynb
   - Chapter 9. 실습 : CelebA_CNN_GAN.ipynb
   - Chapter 10. 실습 : Conditional_GAN.ipynb
+- TOY Project
+  - FashionMnist_GAN.ipynb
